@@ -17,12 +17,14 @@ chrome.webRequest.onBeforeRequest.addListener(
 				continue;
 			if(extra=="ggredirectrule"&&!localStorage["ggredirect"])//关闭google重定向google重定向规则失效
 				continue;
+			if(i<2 && localStorage["admode"]==0)//优酷采用脚本去广告模式时重定向规则失效
+				continue;
 			if (redirectlist[i].find.test(url)) {
 				var newUrl=url.replace(redirectlist[i].find,redirectlist[i].replace);
 				newUrl = decodeURIComponent(newUrl);
 				if(i<2 && !/^https?|^chrome-extension:\/\//.test(newUrl))
 					newUrl=chrome.extension.getURL(newUrl);
-				if(i==2)
+				if(i==2 && redirectlist[i].excode)
 					chrome.tabs.executeScript(details.tabId,{code: redirectlist[i].excode});
 				//console.log(newUrl);
 				if(extra=="ggredirectrule" && type=="sub_frame")//子框架的google重定向的请求
@@ -211,6 +213,9 @@ chrome.tabs.onUpdated.addListener( function( tabId, changeInfo ){
 			mediaurls[id]=[];
 		if(blockurls[id])
 			blockurls[id]=[];
+		
+		if(localStorage["admode"]==0)//脚本去广告模式
+			chrome.tabs.executeScript(tabId,{file: "youku.js"});
 	}
 
 } );

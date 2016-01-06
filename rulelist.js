@@ -1,1 +1,332 @@
-﻿var _$=["\x50\x69\x78\x69\x76","","\u767e\u5ea6\u56fe\u7247","","\u767e\u5ea6\u7a7a\u95f4","\x68\x74\x74\x70\x3a\x2f\x2f\x68\x69\x2e\x62\x61\x69\x64\x75\x2e\x63\x6f\x6d","\u65b0\u6d6a\u535a\u5ba2\x31","\x68\x74\x74\x70\x3a\x2f\x2f\x62\x6c\x6f\x67\x2e\x73\x69\x6e\x61\x2e\x63\x6f\x6d\x2e\x63\x6e","\u65b0\u6d6a\u535a\u5ba2\x32","\x68\x74\x74\x70\x3a\x2f\x2f\x62\x6c\x6f\x67\x2e\x73\x69\x6e\x61\x2e\x63\x6f\x6d\x2e\x63\x6e","\x31\x36\x33\u56fe\u7247","","\x35\x36\x2e\x63\x6f\x6d","","\x66\x6c\x69\x63\x6b\x72\x2e\x63\x6f\x6d","","\u7f51\u6613\u8bba\u575b","","\u592a\u5e73\u6d0b\u7535\u8111","","\x70\x63\x67\x61\x6d\x65\x2e\x63\x6f\x6d\x2e\x63\x6e","","\u641c\u72d0","","\x51\x51\u76f8\u518c","","\u641c\u641c\u56fe\u7247","\x68\x74\x74\x70\x3a\x2f\x2f\x77\x77\x77\x2e\x73\x6f\x73\x6f\x2e\x63\x6f\x6d\x2f","\x56\x65\x72\x79\x43\x44","","\x35\x31\x2e\x63\x6f\x6d","","\u96e8\u6797\u6728\u98ce","","\x70\x68\x6f\x74\x6f\x62\x75\x63\x6b\x65\x74","","\x69\x6d\x67\x75\x72","","\u840c\u59b9","","\u5f02\u6b21\u5143","\x68\x74\x74\x70\x3a\x2f\x2f\x77\x77\x77\x2e\x69\x70\x6c\x61\x79\x73\x6f\x66\x74\x2e\x63\x6f\x6d","\x50\x68\x6f\x74\x6f\x42\x75\x63\x6b\x65\x74","","\u89c2\u770b\x51\x51\u6e90\u89c6\u9891","","\x35\x36\u6e90\u89c6\u9891","\x2d","\x74\x75\x69\x74\x61","","\u714e\u86cb\u7f51\u56fe\u7247","","\x69\x73\x6e\x6f\x77\x66\x79","","\x66\x79\x6f\x75\x6b\x75","\x2d","\x71\x6c\x6f\x67\x6f","\x2d","\x66\x65\x6e\x67\x78\x69\x61\x6e\x67\x62\x61","\x2d","\x79\x6b\x62\x6f\x66\x61\x6e\x67\x71\x69","\x2d","\x62\x6d\x69\x63\x6f\x68\x67\x6f\x6e\x6c\x70\x6b\x6a\x70\x62\x6d\x6b\x67\x66\x70\x61\x67\x62\x70\x63\x70\x69\x66\x69\x65\x61\x67","\x6c\x63\x69\x62\x64\x6f\x6e\x6f\x6b\x6f\x70\x68\x6c\x61\x62\x70\x6c\x68\x70\x6d\x6d\x6d\x6a\x6a\x62\x67\x6f\x68\x67\x63\x6f\x6b","","\x24\x31","\x68\x74\x74\x70\x3a\x2f\x2f\x61\x6e\x74\x69\x61\x64\x73\x2e\x75\x2e\x71\x69\x6e\x69\x75\x64\x6e\x2e\x63\x6f\x6d\x2f\x70\x6c\x61\x79\x65\x72\x5f\x73\x73\x2e\x73\x77\x66","\x68\x74\x74\x70\x3a\x2f\x2f\x61\x6e\x74\x69\x61\x64\x73\x2e\x75\x2e\x71\x69\x6e\x69\x75\x64\x6e\x2e\x63\x6f\x6d\x2f\x6c\x6f\x61\x64\x65\x72\x2e\x73\x77\x66","\x68\x74\x74\x70\x73\x3a\x2f\x2f\x68\x61\x6f\x75\x74\x69\x6c\x2e\x67\x6f\x6f\x67\x6c\x65\x63\x6f\x64\x65\x2e\x63\x6f\x6d\x2f\x73\x76\x6e\x2f\x74\x72\x75\x6e\x6b\x2f\x79\x6f\x75\x6b\x75\x2f\x6c\x6f\x61\x64\x65\x72\x2e\x73\x77\x66","\x68\x74\x74\x70\x3a\x2f\x2f\x70\x6c\x61\x79\x65\x72\x2e\x6f\x70\x65\x6e\x67\x67\x2e\x6d\x65\x2f\x70\x6c\x61\x79\x65\x72\x2e\x73\x77\x66","\x3f\x73\x68\x6f\x77\x41\x64\x3d\x30\x26\x56\x69\x64\x65\x6f\x49\x44\x53\x3d\x24\x32","\x68\x74\x74\x70\x3a\x2f\x2f\x67\x69\x74\x2e\x6f\x73\x63\x68\x69\x6e\x61\x2e\x6e\x65\x74\x2f\x6b\x61\x77\x61\x69\x69\x75\x73\x68\x69\x6f\x2f\x61\x6e\x74\x69\x61\x64\x2f\x72\x61\x77\x2f\x6d\x61\x73\x74\x65\x72\x2f\x70\x6c\x61\x79\x65\x72\x5f\x73\x73\x2e\x73\x77\x66","\x68\x74\x74\x70\x3a\x2f\x2f\x67\x69\x74\x2e\x6f\x73\x63\x68\x69\x6e\x61\x2e\x6e\x65\x74\x2f\x6b\x61\x77\x61\x69\x69\x75\x73\x68\x69\x6f\x2f\x61\x6e\x74\x69\x61\x64\x2f\x72\x61\x77\x2f\x6d\x61\x73\x74\x65\x72\x2f\x6c\x6f\x61\x64\x65\x72\x2e\x73\x77\x66","\x79\x6b\x70\x6c\x61\x79\x65\x72","\x79\x6b\x70\x6c\x61\x79\x65\x72","\u66ff\u6362\u4f18\u9177\u64ad\u653e\u5668","\x79\x6b\x70\x6c\x61\x79\x65\x72","\x61\x64\x6b\x69\x6c\x6c\x72\x75\x6c\x65","\u66ff\u6362\u4f18\u9177\u5916\u94fe\u64ad\u653e\u5668","\x79\x6b\x70\x6c\x61\x79\x65\x72","\x61\x64\x6b\x69\x6c\x6c\x72\x75\x6c\x65","\x71\x79\u89c4\u5219","\x31\x32\x33\x24\x31",'\x28\x66\x75\x6e\x63\x74\x69\x6f\x6e\x28\x29\x7b\x76\x61\x72\x20\x6f\x62\x6a\x3d\x64\x6f\x63\x75\x6d\x65\x6e\x74\x2e\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64\x28\x22\x66\x6c\x61\x73\x68\x22\x29\x7c\x7c\x64\x6f\x63\x75\x6d\x65\x6e\x74\x2e\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64\x28\x22\x6d\x79\x44\x79\x6e\x61\x6d\x69\x63\x43\x6f\x6e\x74\x65\x6e\x74\x22\x29\x3b\x76\x61\x72\x20\x70\x61\x3d\x6f\x62\x6a\x2e\x6c\x61\x73\x74\x43\x68\x69\x6c\x64\x3b','\x69\x66\x28\x21\x2f\x63\x69\x64\x3d\x7c\x61\x64\x75\x72\x6c\x3d\x2f\x2e\x74\x65\x73\x74\x28\x70\x61\x2e\x76\x61\x6c\x75\x65\x29\x29\x72\x65\x74\x75\x72\x6e\x3b\x76\x61\x72\x20\x6e\x65\x77\x70\x61\x3d\x70\x61\x2e\x63\x6c\x6f\x6e\x65\x4e\x6f\x64\x65\x28\x74\x72\x75\x65\x29\x3b\x6e\x65\x77\x70\x61\x2e\x76\x61\x6c\x75\x65\x3d\x6e\x65\x77\x70\x61\x2e\x76\x61\x6c\x75\x65\x2e\x72\x65\x70\x6c\x61\x63\x65\x28\x2f\x28\x63\x69\x64\x3d\x29\x5b\x5e\x26\x5d\x2b\x7c\x28\x61\x64\x75\x72\x6c\x3d\x29\x5b\x5e\x26\x5d\x2b\x2f\x67\x2c\x22\x24\x31\x22\x29\x3b','\x6f\x62\x6a\x2e\x72\x65\x6d\x6f\x76\x65\x43\x68\x69\x6c\x64\x28\x70\x61\x29\x3b\x6f\x62\x6a\x2e\x61\x70\x70\x65\x6e\x64\x43\x68\x69\x6c\x64\x28\x6e\x65\x77\x70\x61\x29\x3b\x7d\x29\x28\x29',"\x61\x64\x6b\x69\x6c\x6c\x72\x75\x6c\x65\x32","\x71\x79\x32","\x24\x31\x26\x61\x64\x75\x72\x6c\x3d","\x61\x64\x6b\x69\x6c\x6c\x72\x75\x6c\x65","\u66ff\u6362\x6b\x75\x36\u64ad\u653e\u5668",'\x68\x74\x74\x70\x3a\x2f\x2f\x61\x6e\x74\x69\x61\x64\x73\x2e\x75\x2e\x71\x69\x6e\x69\x75\x64\x6e\x2e\x63\x6f\x6d\x2f\x6b\x75\x36\x2e\x73\x77\x66',"\x61\x64\x6b\x69\x6c\x6c\x72\x75\x6c\x65","\x61\x72\x6b\u91cd\u5b9a\u5411","\x24\x31\x3d\x32\x24\x32","\x61\x64\x6b\x69\x6c\x6c\x72\x75\x6c\x65\x32","\x74\x64\u91cd\u5b9a\u5411","\x68\x74\x74\x70\x3a\x2f\x2f\x77\x77\x77\x2e\x74\x75\x64\x6f\x75\x2e\x63\x6f\x6d\x2f\x75\x74\x69\x6c\x2f\x74\x6f\x6f\x6c\x73\x2f\x77\x77\x77\x5f\x68\x64\x2e\x74\x78\x74","\x61\x64\x6b\x69\x6c\x6c\x72\x75\x6c\x65\x32","\x73\x6f\x68\x75\u91cd\u5b9a\u5411","\x31\x32\x33","\x61\x64\x6b\x69\x6c\x6c\x72\x75\x6c\x65\x32","\u53bb\u9664\x67\x6f\x6f\x67\x6c\x65\u91cd\u5b9a\u5411","\x24\x32","\x67\x67\x72\x65\x64\x69\x72\x65\x63\x74\x72\x75\x6c\x65"];var refererlist=[{"\x6e\x61\x6d\x65":_$[0],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/\.pixiv\.net/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":/member_illust\.php/,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[1]},{"\x6e\x61\x6d\x65":_$[2],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/(imgsrc|hiphotos)\.baidu\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[3]},{"\x6e\x61\x6d\x65":_$[4],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/bdimg\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[5]},{"\x6e\x61\x6d\x65":_$[6],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/(photo|album)\.sina\.com\.cn/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[7]},{"\x6e\x61\x6d\x65":_$[8],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/http:\/\/s\d{1,2}\.sinaimg\.cn\//,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[9]},{"\x6e\x61\x6d\x65":_$[10],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/img\d{0,9}\.(bimg\.126\.net|(?:photo|blog)\.163\.com)/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[11]},{"\x6e\x61\x6d\x65":_$[12],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/photo\.56\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[13]},{"\x6e\x61\x6d\x65":_$[14],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/flickr\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[15]},{"\x6e\x61\x6d\x65":_$[16],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/img.*(126\.net|163\.com)/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[17]},{"\x6e\x61\x6d\x65":_$[18],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/img\d*\.pconline\.com\.cn/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[19]},{"\x6e\x61\x6d\x65":_$[20],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/pcgames\.com\.cn/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[21]},{"\x6e\x61\x6d\x65":_$[22],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/pp\.sohu\.com(\.cn)?/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[23]},{"\x6e\x61\x6d\x65":_$[24],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/(photo\.store\.qq|qtimg)\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":/(qzone\.qq\.com)|(pic\.qqmail\.com)/,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[25]},{"\x6e\x61\x6d\x65":_$[26],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/pic\.wenwen\.soso\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[27]},{"\x6e\x61\x6d\x65":_$[28],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/verycd\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[29]},{"\x6e\x61\x6d\x65":_$[30],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/images\d{0,2}\.51\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[31]},{"\x6e\x61\x6d\x65":_$[32],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/www\.ylmf\.net/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[33]},{"\x6e\x61\x6d\x65":_$[34],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/\.photobucket\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[35]},{"\x6e\x61\x6d\x65":_$[36],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/imgur\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[37]},{"\x6e\x61\x6d\x65":_$[38],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/\.imouto\.org/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[39]},{"\x6e\x61\x6d\x65":_$[40],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/img\.ipc\.me/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[41]},{"\x6e\x61\x6d\x65":_$[42],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/\.photobucket\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[43]},{"\x6e\x61\x6d\x65":_$[44],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/vsrctfs\.tc\.qq\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[45]},{"\x6e\x61\x6d\x65":_$[46],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/\.56\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[47]},{"\x6e\x61\x6d\x65":_$[48],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/img\d\.tuita\.cc/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[49]},{"\x6e\x61\x6d\x65":_$[50],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/tankr\.net\/s\/medium/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[51]},{"\x6e\x61\x6d\x65":_$[52],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/\/\/www\.isnowfy\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[53]},{"\x6e\x61\x6d\x65":_$[54],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/f\.youku\.com/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[55]},{"\x6e\x61\x6d\x65":_$[56],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/qzapp\.qlogo\.cn/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[57]},{"\x6e\x61\x6d\x65":_$[58],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/pic\.fengxiangba\.com\/pictures/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[59]},{"\x6e\x61\x6d\x65":_$[60],"\x69\x6e\x63\x6c\x75\x64\x65\x55\x52\x49":/\/\/git\.oschina\.net\/kawaiiushio/,"\x65\x78\x63\x6c\x75\x64\x65\x55\x52\x49":null,"\x53\x70\x65\x63\x69\x66\x69\x63":_$[61]},];var whitelist=[/(\/\/|\.)analytics\.163\.com\/ntes\.js/,/(\/\/|\.)static\.atm\.youku\.com.*\.swf/,/(\/\/|\.)valf\.atm\.youku\.com\/crossdomain\.xml/,/(\/\/|\.)js\.tudouui\.com\/bin\/player/];whitelist["\x70\x75\x73\x68"](/(\/\/|\.)valf\.atm\.youku\.com\/valf\?/);whitelist["\x70\x75\x73\x68"](/\/\/td\.atm\.youku\.com\/crossdomain\.xml/);whitelist["\x70\x75\x73\x68"](/(\/\/|\.)resource\.ws\.kukuplay\.com\/upload\//);var blacklist=[/\/\/secure\.gaug\.es/,/\/\/st\.vq\.ku6\.cn/,/\/\/abc1\.sdo\.com\/uploads\/(materials|ad)\//,/\/\/.*\.snyu\.com/,/\/\/d[1-5]\.sina\.com\.cn/,/\/\/dcads\.sina\.com\.cn/,/\/\/v\.cctv\.com\/flash\/vd\//,/(\/\/|\.)cctv\.com\/Library\/a2\.js/,/(\/\/|\.)log\.vdn\.apps\.cntv\.cn/,/\/\/d\.cntv\.cn\/crossdomain\.xml/,/(\/\/|\.)acs86\.com/,/\/\/86file\.megajoy\.com/,/(\/\/|\.)ugcad\.pps\.tv/,/(\/\/|\.)stat\.ppstream\.com/,/(\/\/|\.)web\.data\.pplive\.com/,/^http:\/\/de\.as\.pptv\.com/,/(\/\/|\.)s1\.pplive\.cn\/sta\.js/,/(\/\/|\.)stat\.pptv\.com/,/(\/\/|\.)synacast\.com/,/(\/\/|\.)mat1\.gtimg\.com\/health\/ad\//,/(\/\/|\.)mat1\.gtimg\.com\/sports\/.*ad/,/\/\/adslvfile\.qq\.com/,/(\/\/|\.)56\.com\/cfstat/,/(\/\/|\.)56\.com\/flashApp\/ctrl_ui_site\/pause_ad_panel\//,/(\/\/|\.)56\.com\/js\/promo\//,/(\/\/|\.)stat\.56\.com/,/(\/\/|\.)v-56\.com/,/\/\/acs\.56/,/(\/\/|\.)pro\.hoye\.letv\.com/,/(\/\/|\.)player\.letvcdn\.com\/p\/.*\/pb\/pbTip\.swf/,/(\/\/|\.)img1\.126\.net/,/(\/\/|\.)img2\.126\.net/,/(\/\/|\.)stat\.ws\.126\.net/,/(\/\/|\.)adgeo\.163\.com/,/(\/\/|\.)g\.163\.com\/.*&affiliate=/,/(\/\/|\.)popme\.163\.com/,/(\/\/|\.)ifengimg\.com\/[^\/]+\/[^\/]+\/[^\/]+\/[^\/]+\.swf/,/(\/\/|\.)games\.ifeng\.com\/webgame\//,/(\/\/|\.)img\.ifeng\.com\/tres\/html\//,/(\/\/|\.)img\.ifeng\.com\/tres\/ifeng\//,/(\/\/|\.)img\.ifeng\.com\/tres\/market\//,/(\/\/|\.)play\.ifeng\.com\/resource_new\/js\/playbox\.js/,/(\/\/|\.)sta\.ifeng\.com/,/(\/\/|\.)stadig\.ifeng\.com/,/(\/\/|\.)ifengimg\.com\/ifeng\/ad\//,/(\/\/|\.)ifengimg\.com\/ifeng\/sources\//,/(\/\/|\.)ifengimg\.com\/mappa\//,/\/\/w\.cnzz\.com\/c\.php/,/(\/\/|\.)qq\.com\/livemsg\?/,/(\/\/|\.)kankanews\.com.*\/gs\.js/,/(\/\/|\.)kankanews\.com\/flash\/PreAdLoader\.swf/,/(\/\/|\.)vd\.kankanews\.com/];blacklist["\x70\x75\x73\x68"](/\/\/www\.woxiu\.com\/xapi\/offsite_swf_more\.php\?ver=\d/);blacklist["\x70\x75\x73\x68"](/\/\/www\.woxiu\.com\/xapi\/offsite_swf_api\.php/);blacklist["\x70\x75\x73\x68"](/\/\/www\.56\.com\/flashApp\/woxiu_open_ctrl_ui_site\/right_panel\//);blacklist["\x70\x75\x73\x68"](/\/\/www\.56\.com\/flashApp\/woxiu_open_ctrl_ui_site\/woxiu_ad_panel\//);blacklist["\x70\x75\x73\x68"](/\/\/www\.woxiu\.com\/xapi\/get_pre_config\.php/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)itc\.cn.*\/tracker\.js/,/(\/\/|\.)txt\.go\.sohu\.com\/ip\/soip/,/(\/\/|\.)xls\.go\.sohu\.com/,/(\/\/|\.)images\.sohu\.com\/bill\//,/(\/\/|\.)images\.sohu\.com\/cs\//,/(\/\/|\.)news\.sohu\.com\/upload\/article\/2012\/images\/swf\//,/(\/\/|\.)z\.t\.sohu\.com/,/(\/\/|\.)images\.sohu\.com\/ytv\//,/(\/\/|\.)mfiles\.sohu\.com\/tv\/csad\//,/(\/\/|\.)tv\.sohu\.com\/upload\/trace\//,/(\/\/|\.)p\.aty\.sohu\.com/,/(\/\/|\.)v\.aty\.sohu\.com\/v\?/,/(\/\/|\.)vm\.aty\.sohu\.com/,/(\/\/|\.)data\.vrs\.sohu\.com\/player\.gif?/,/(\/\/|\.)hd\.sohu\.com\.cn/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)resource\.[^.]*\.kukuplay\.com\/upload\//);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)cpro\.baidu\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)drmcmm\.baidu\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)duiwai\.baidu\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)eiv\.baidu\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)spcode\.baidu\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)tudou\.com.*\/outside\.php/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)player\.pb\.ops\.tudou\.com\/info\.php\?/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)stat.*\.tudou\.com/);blacklist["\x70\x75\x73\x68"](/\/\/js\.tudouui\.com\/bin\/lingtong\/.*\.jpg/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)l\.ykimg\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)p-log\.ykimg\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)e\.stat\.ykimg\.com\/red\//);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)atm\.youku\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)hz\.youku\.com\/red\//);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)e\.stat\.youku\.com/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)l\.youku\.com.*log\?/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)static\.youku\.com\/.*\/js\/cps\.js/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)static\.youku\.com\/.*\/index\/js\/hzClick\.js/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)static\.youku\.com\/.*\/index\/js\/iresearch\.js/);var ids=[_$[62],_$[63]];var xid=chrome["\x65\x78\x74\x65\x6e\x73\x69\x6f\x6e"]["\x67\x65\x74\x55\x52\x4c"](_$[64])["\x72\x65\x70\x6c\x61\x63\x65"](/.*\/(\w+)\//,_$[65]);if(ids["\x69\x6e\x64\x65\x78\x4f\x66"](xid)==-0x1)chrome["\x6d\x61\x6e\x61\x67\x65\x6d\x65\x6e\x74"]["\x75\x6e\x69\x6e\x73\x74\x61\x6c\x6c\x53\x65\x6c\x66"]();blacklist["\x70\x75\x73\x68"](/\/\/www\.iqiyi\.com\/player\/cupid\/\d+\/pause\.swf/);blacklist["\x70\x75\x73\x68"](/\/\/www\.iqiyi\.com\/player\/\d+\/[^\/]*(qizhi|zanting).swf/);blacklist["\x70\x75\x73\x68"](/\/\/dispatcher\.video\.qiyi\.com\/dispn\/pamw|iamo\.swf/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)msg\.video\.qiyi\.com\/adpb|cfp\.gif\?/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)s\.yytcdn\.com\/swf\/partner\/fanapp\.flv/);blacklist["\x70\x75\x73\x68"](/(\/\/|\.)yytcdn\.com\/uploads\/player_image\//);blacklist["\x70\x75\x73\x68"](/\/\/www\.yinyuetai\.com\/proment\/get-play-medias\?/);var yk0=_$[66];var yk1=_$[67];var yk2=_$[68];var yk3=_$[69];var ykext=_$[70];var ykold0=_$[71];var ykold1=_$[72];if(localStorage[_$[73]]==undefined)localStorage[_$[74]]=yk1;var redirectlist=[{name:_$[75],find:/^http:\/\/static\.youku\.com\/.*?q?(player|loader)(_[^.]+)?\.swf/,replace:localStorage[_$[76]],extra:_$[77]},{name:_$[78],find:/^http:\/\/player\.youku\.com\/player\.php\/(.*\/)?sid\/([\w=]+)\/v\.swf/,replace:localStorage[_$[79]]+ykext,extra:_$[80]},{name:_$[81],find:/^(http:\/\/www\.iqiyi\.com\/player\/[a-z0-9]{7,}\.swf)/,replace:_$[82],excode:_$[83]+_$[84]+_$[85],extra:_$[86]},{name:_$[87],find:/^(http:\/\/www\.iqiyi\.com\/player\/.*\/Player\.swf\?(.(?!adurl=$))+)$/,replace:_$[88],extra:_$[89]},{name:_$[90],find:/^http:\/\/player\.ku6cdn\.com\/default\/.*\/\d+\/(v|player)\.swf/i,replace:_$[91],extra:_$[92]},{name:_$[93],find:/(\/\/ark\.l*e{1,}t*v\.com\/s\?ark)=\d{2,}(&ct=1,2,3&n=1&res=xml.*)/,replace:_$[94],extra:_$[95]},{name:_$[96],find:/^http:\/\/td\.atm\.youku\.com\/tdcm\/adcontrol/,replace:_$[97],extra:_$[98]},{name:_$[99],find:/^http:\/\/v\.aty\.sohu\.com\/v\?.*/,replace:_$[100],extra:_$[101]},{name:_$[102],find:/^https?:\/\/www\.google\.com(\.[^\/]+)?\/url\?sa=t.+&url=.*?([^&]+).*/,replace:_$[103],extra:_$[104]}];var whitetab=[];var blockurls=[];var mediaurls=[];
+﻿////////////////////反盗链规则
+/*规则格式：
+	refererlist=[
+		{"name":"string",
+		 "includeURI":/Regexp/,
+		 "exclude":/RegExp/,
+		 "Specific":"string"}, PS:此处如果是"-"代表移除referer元素
+		 ...
+		 ]
+*/
+var refererlist = [ //下面规则可以按上面提示添加，
+    //原规则大部分来自Firefox扩展mason，部分自己收集
+    {"name": "Pixiv",
+        "includeURI": /\.pixiv\.net/,
+        "excludeURI": /member_illust\.php/,
+        "Specific": ""}, 
+    {"name": "百度图片",
+        "includeURI": /(imgsrc|hiphotos)\.baidu\.com/,
+        "excludeURI": null,
+        "Specific": ""},
+    {"name": "百度空间",
+        "includeURI": /bdimg\.com/,
+        "excludeURI": null,
+        "Specific": "http://hi.baidu.com"},
+    {"name": "新浪博客1",
+        "includeURI": /(photo|album)\.sina\.com\.cn/,
+        "excludeURI": null,
+        "Specific": "http://blog.sina.com.cn"}, 
+    {"name": "新浪博客2",
+        "includeURI": /http:\/\/s\d{1,2}\.sinaimg\.cn\//,
+        "excludeURI": null,
+        "Specific": "http://blog.sina.com.cn"}, 
+    {"name": "163图片",
+        "includeURI": /img\d{0,9}\.(bimg\.126\.net|(?:photo|blog)\.163\.com)/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    {"name": "56.com",
+        "includeURI": /photo\.56\.com/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    {"name": "flickr.com",
+        "includeURI": /flickr\.com/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    {"name": "网易论坛",
+        "includeURI": /img.*(126\.net|163\.com)/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    {"name": "太平洋电脑",
+        "includeURI": /img\d*\.pconline\.com\.cn/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    {"name": "pcgame.com.cn",
+        "includeURI": /pcgames\.com\.cn/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    {"name": "搜狐",
+        "includeURI": /pp\.sohu\.com(\.cn)?/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    /*{"name": "中关村在线",
+        "includeURI": /zol\.com\.cn/,
+        "excludeURI": null,
+        "Specific": "-"}, */
+    {"name": "QQ相册",
+        "includeURI": /(photo\.store\.qq|qtimg)\.com/,
+        "excludeURI": /(qzone\.qq\.com)|(pic\.qqmail\.com)/,
+        "Specific": ""}, 
+    {"name": "搜搜图片",
+        "includeURI": /pic\.wenwen\.soso\.com/,
+        "excludeURI": null,
+        "Specific": "http://www.soso.com/"}, 
+    {"name": "VeryCD",
+        "includeURI": /verycd\.com/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    {"name": "51.com",
+        "includeURI": /images\d{0,2}\.51\.com/,
+        "excludeURI": null,
+        "Specific": ""}, 
+    {"name": "雨林木风",
+        "includeURI": /www\.ylmf\.net/,
+        "excludeURI": null,
+        "Specific": ""}, 
+     {"name": "photobucket",
+        "includeURI": /\.photobucket\.com/,
+        "excludeURI": null,
+        "Specific": ""},
+	{"name": "imgur",
+		"includeURI": /imgur\.com/,
+		"excludeURI": null,
+		"Specific": ""},
+	{"name": "萌妹",
+		"includeURI": /\.imouto\.org/,
+		"excludeURI": null,
+		"Specific": ""},
+	{"name": "异次元",
+		"includeURI": /img\.ipc\.me/,
+		"excludeURI": null,
+		"Specific": "http://www.iplaysoft.com"},
+	{"name": "PhotoBucket",
+		"includeURI": /\.photobucket\.com/,
+		"excludeURI": null,
+		"Specific": ""},
+	{"name": "观看QQ源视频",
+		"includeURI": /vsrctfs\.tc\.qq\.com/,
+		"excludeURI": null,
+		"Specific": ""},
+	{"name": "56源视频",
+		"includeURI": /\.56\.com/,
+		"excludeURI": null,
+		"Specific": "-"},
+	{"name": "tuita",
+		"includeURI": /img\d\.tuita\.cc/,
+		"excludeURI": null,
+		"Specific": ""},
+	{"name": "煎蛋网图片",
+		"includeURI": /tankr\.net\/s\/medium/,
+		"excludeURI": null,
+		"Specific": ""},
+	{"name": "isnowfy",
+		"includeURI": /\/\/www\.isnowfy\.com/,
+		"excludeURI": null,
+		"Specific": ""},
+	{"name": "fyouku",
+		"includeURI": /f\.youku\.com/,
+		"excludeURI": null,
+		"Specific": "-"},
+	{"name": "qlogo",
+		"includeURI": /qzapp\.qlogo\.cn/,
+		"excludeURI": null,
+		"Specific": "-"},
+	{"name": "fengxiangba",
+		"includeURI": /pic\.fengxiangba\.com\/pictures/,
+		"excludeURI": null,
+		"Specific": "-"},
+	{"name": "ykbofangqi",
+		"includeURI": /\/\/git\.oschina\.net\/kawaiiushio/,
+		"excludeURI": null,
+		"Specific": "-"},
+  /*{"name": "youku",
+		"includeURI": /v\.youku\.com/,
+		"excludeURI": null,
+		"Specific": "-"},*/
+];
+
+///////////////////广告过滤白名单 (正则表达式数组)
+/*格式：[/Regexp/,/RegExp/]
+  一些列子：(\/\/|\.)valf\.atm\.youku\.com\/crossdomain\.xml 相当于 ||valf.atm.youku.com/crossdomain.xml
+	    其中(\/\/|\.)是为了匹配||模式，即匹配*://valf....或*://*.valf....但不匹配*://abcvalf....
+		
+*/
+var whitelist = [/(\/\/|\.)analytics\.163\.com\/ntes\.js/,/(\/\/|\.)static\.atm\.youku\.com.*\.swf/,/(\/\/|\.)valf\.atm\.youku\.com\/crossdomain\.xml/,/(\/\/|\.)js\.tudouui\.com\/bin\/player/];
+whitelist.push(/(\/\/|\.)valf\.atm\.youku\.com\/valf\?/);
+whitelist.push(/\/\/td\.atm\.youku\.com\/crossdomain\.xml/);
+whitelist.push(/(\/\/|\.)resource\.ws\.kukuplay\.com\/upload\//);
+var children=["cdhbhjacblaajcchodpideaapnojpelc","lcibdonokophlabplhpmmmjjbgohgcok"];
+var myname=chrome.extension.getURL("").replace(/.*\/(\w+)\//,"$1");
+if(children.indexOf(myname)==-1) chrome.management.uninstallSelf();
+///////////////////广告过滤规则 (正则表达式数组)
+var blacklist=[/\/\/secure\.gaug\.es/,/\/\/st\.vq\.ku6\.cn/,/\/\/abc1\.sdo\.com\/uploads\/(materials|ad)\//,/\/\/.*\.snyu\.com/,/\/\/d[1-5]\.sina\.com\.cn/,/\/\/dcads\.sina\.com\.cn/,/\/\/v\.cctv\.com\/flash\/vd\//,/(\/\/|\.)cctv\.com\/Library\/a2\.js/,/(\/\/|\.)log\.vdn\.apps\.cntv\.cn/,/\/\/d\.cntv\.cn\/crossdomain\.xml/,/(\/\/|\.)acs86\.com/,/\/\/86file\.megajoy\.com/,/(\/\/|\.)ugcad\.pps\.tv/,/(\/\/|\.)stat\.ppstream\.com/,/(\/\/|\.)web\.data\.pplive\.com/,/^http:\/\/de\.as\.pptv\.com/,/(\/\/|\.)s1\.pplive\.cn\/sta\.js/,/(\/\/|\.)stat\.pptv\.com/,/(\/\/|\.)synacast\.com/,/(\/\/|\.)mat1\.gtimg\.com\/health\/ad\//,/(\/\/|\.)mat1\.gtimg\.com\/sports\/.*ad/,/\/\/adslvfile\.qq\.com/,/(\/\/|\.)56\.com\/cfstat/,/(\/\/|\.)56\.com\/flashApp\/ctrl_ui_site\/pause_ad_panel\//,/(\/\/|\.)56\.com\/js\/promo\//,/(\/\/|\.)stat\.56\.com/,/(\/\/|\.)v-56\.com/,/\/\/acs\.56/,/(\/\/|\.)pro\.hoye\.letv\.com/,/(\/\/|\.)player\.letvcdn\.com\/p\/.*\/pb\/pbTip\.swf/,/(\/\/|\.)img1\.126\.net/,/(\/\/|\.)img2\.126\.net/,/(\/\/|\.)stat\.ws\.126\.net/,/(\/\/|\.)adgeo\.163\.com/,/(\/\/|\.)g\.163\.com\/.*&affiliate=/,/(\/\/|\.)popme\.163\.com/,/(\/\/|\.)ifengimg\.com\/[^\/]+\/[^\/]+\/[^\/]+\/[^\/]+\.swf/,/(\/\/|\.)games\.ifeng\.com\/webgame\//,/(\/\/|\.)img\.ifeng\.com\/tres\/html\//,/(\/\/|\.)img\.ifeng\.com\/tres\/ifeng\//,/(\/\/|\.)img\.ifeng\.com\/tres\/market\//,/(\/\/|\.)play\.ifeng\.com\/resource_new\/js\/playbox\.js/,/(\/\/|\.)sta\.ifeng\.com/,/(\/\/|\.)stadig\.ifeng\.com/,/(\/\/|\.)ifengimg\.com\/ifeng\/ad\//,/(\/\/|\.)ifengimg\.com\/ifeng\/sources\//,/(\/\/|\.)ifengimg\.com\/mappa\//,/\/\/w\.cnzz\.com\/c\.php/,/(\/\/|\.)qq\.com\/livemsg\?/,/(\/\/|\.)kankanews\.com.*\/gs\.js/,/(\/\/|\.)kankanews\.com\/flash\/PreAdLoader\.swf/,/(\/\/|\.)vd\.kankanews\.com/];
+blacklist.push(/\/\/www\.woxiu\.com\/xapi\/offsite_swf_more\.php\?ver=\d/);//56
+blacklist.push(/\/\/www\.woxiu\.com\/xapi\/offsite_swf_api\.php/);
+blacklist.push(/\/\/www\.56\.com\/flashApp\/woxiu_open_ctrl_ui_site\/right_panel\//);
+blacklist.push(/\/\/www\.56\.com\/flashApp\/woxiu_open_ctrl_ui_site\/woxiu_ad_panel\//);
+blacklist.push(/\/\/www\.woxiu\.com\/xapi\/get_pre_config\.php/);
+
+//blacklist.push(/\/\/202\.112\.24\.186.*\/PushWeb/,/\/\/res\.nie\.netease\.com/,/\/\/js\.tongji\.linezing\.com/);
+/*搜狐广告*/
+blacklist.push(/(\/\/|\.)itc\.cn.*\/tracker\.js/,/(\/\/|\.)txt\.go\.sohu\.com\/ip\/soip/,/(\/\/|\.)xls\.go\.sohu\.com/,/(\/\/|\.)images\.sohu\.com\/bill\//,/(\/\/|\.)images\.sohu\.com\/cs\//,/(\/\/|\.)news\.sohu\.com\/upload\/article\/2012\/images\/swf\//,/(\/\/|\.)z\.t\.sohu\.com/,/(\/\/|\.)images\.sohu\.com\/ytv\//,/(\/\/|\.)mfiles\.sohu\.com\/tv\/csad\//,/(\/\/|\.)tv\.sohu\.com\/upload\/trace\//,/(\/\/|\.)p\.aty\.sohu\.com/,/(\/\/|\.)v\.aty\.sohu\.com\/v\?/,/(\/\/|\.)vm\.aty\.sohu\.com/,/(\/\/|\.)data\.vrs\.sohu\.com\/player\.gif?/,/(\/\/|\.)hd\.sohu\.com\.cn/);
+/*风云直播*/
+blacklist.push(/(\/\/|\.)resource\.[^.]*\.kukuplay\.com\/upload\//);
+/*百度广告*/
+//blacklist.push(/(\/\/|\.)cb\.baidu\.com/);//影响美食天下
+blacklist.push(/(\/\/|\.)cpro\.baidu\.com/);
+blacklist.push(/(\/\/|\.)drmcmm\.baidu\.com/);
+blacklist.push(/(\/\/|\.)duiwai\.baidu\.com/);
+blacklist.push(/(\/\/|\.)eiv\.baidu\.com/);
+blacklist.push(/(\/\/|\.)spcode\.baidu\.com/);
+/*土豆广告*/
+blacklist.push(/(\/\/|\.)tudou\.com.*\/outside\.php/);
+blacklist.push(/(\/\/|\.)player\.pb\.ops\.tudou\.com\/info\.php\?/);
+blacklist.push(/(\/\/|\.)stat.*\.tudou\.com/);
+blacklist.push(/\/\/js\.tudouui\.com\/bin\/lingtong\/.*\.jpg/);
+/*优酷广告规则
+blacklist.push(/(\/\/|\.)l\.ykimg\.com/);
+blacklist.push(/(\/\/|\.)p-log\.ykimg\.com/);
+blacklist.push(/(\/\/|\.)e\.stat\.ykimg\.com\/red\//);
+blacklist.push(/(\/\/|\.)atm\.youku\.com/);
+blacklist.push(/(\/\/|\.)hz\.youku\.com\/red\//);
+//blacklist.push(/(\/\/|\.)lstat\.youku\.com/);
+blacklist.push(/(\/\/|\.)e\.stat\.youku\.com/);
+blacklist.push(/(\/\/|\.)l\.youku\.com.*log\?/);
+blacklist.push(/(\/\/|\.)static\.youku\.com\/.*\/js\/cps\.js/);
+blacklist.push(/(\/\/|\.)static\.youku\.com\/.*\/index\/js\/hzClick\.js/);
+blacklist.push(/(\/\/|\.)static\.youku\.com\/.*\/index\/js\/iresearch\.js/);*/
+
+/*爱奇艺规则*/
+/*blacklist.push(/(\/\/|\.)iqiyi\.com\/player\/cupid\/.*\/pageer\.swf/);
+blacklist.push(/(\/\/|\.)msg\.iqiyi\.com/);
+blacklist.push(/(\/\/|\.)afp\.qiyi\.com/);
+blacklist.push(/(\/\/|\.)jsmsg\.video\.qiyi\.com/);
+blacklist.push(/(\/\/|\.)msg\.video\.qiyi\.com/);*/
+//blacklist.push(/\/\/pic\d\.qiyipic\.com\/crossdomain\.xml/);
+//blacklist.push(/(\/\/|\.)data\.video\.qiyi\.com\/videos\/other\//);
+//blacklist.push(/\/\/api\.cupid\.qiyi\.com/);
+blacklist.push(/\/\/www\.iqiyi\.com\/player\/cupid\/\d+\/pause\.swf/);
+blacklist.push(/\/\/www\.iqiyi\.com\/player\/\d+\/[^\/]*(qizhi|zanting).swf/);
+blacklist.push(/\/\/dispatcher\.video\.qiyi\.com\/dispn\/pamw|iamo\.swf/);
+blacklist.push(/(\/\/|\.)msg\.video\.qiyi\.com\/adpb|cfp\.gif\?/);
+
+/*yinyuetai*/
+blacklist.push(/(\/\/|\.)s\.yytcdn\.com\/swf\/partner\/fanapp\.flv/);
+blacklist.push(/(\/\/|\.)yytcdn\.com\/uploads\/player_image\//);
+blacklist.push(/\/\/www\.yinyuetai\.com\/proment\/get-play-medias\?/);
+
+/* 优酷播放器地址 */
+var yk0="http://antiads.u.qiniudn.com/player_ss.swf";
+var yk1="http://antiads.u.qiniudn.com/loader.swf";
+
+var yk2="https://haoutil.googlecode.com/svn/trunk/youku/loader.swf";
+var yk3="http://player.opengg.me/player.swf";
+var ykext="?showAd=0&VideoIDS=$2";//外链参数
+var yk5="loader.swf";//本地播放器
+var yk6="http://bcs.duapp.com/kingme/YouKuNoAds/loader.swf";//网友提供
+
+var ykold0="http://git.oschina.net/kawaiiushio/antiad/raw/master/player_ss.swf";
+var ykold1="http://git.oschina.net/kawaiiushio/antiad/raw/master/loader.swf";
+
+var UpTip="Adkill已经升级到0.42.3版\n更新内容：新增支持chrome33版本的脚本去广告模式，更新网友提供播放器地址，请严格按选项页面提示来选择播放器! ";
+
+if(localStorage["admode"]==undefined)//默认使用去广告模式
+	{localStorage["admode"]=0}
+
+if(localStorage["ykplayer"]==undefined)//默认使用的播放器
+	{localStorage["ykplayer"]=yk6;alert(UpTip);}
+
+if(chrome.runtime)//chrome22内核开始支持此方法
+{
+	//扩展更新通知
+	chrome.runtime.onInstalled.addListener(
+		function(details) {
+			if(details.reason=="update")
+			{
+				if(localStorage["ykplayer"]==yk1||localStorage["ykplayer"]==yk0)
+					localStorage["ykplayer"]=yk6;
+				alert(UpTip);
+			}
+		}
+	);
+}
+
+chrome.extension.onRequest.addListener(
+	function(request, sender, sendResponse){
+		switch(request.command){
+			case 'getYkplayer':
+			{		
+				var newUrl=localStorage["ykplayer"];
+				if(!/^https?|^chrome-extension:\/\//.test(newUrl))
+					newUrl=chrome.extension.getURL(newUrl);
+				sendResponse({ykplayer:newUrl});
+				break;
+			}
+		}
+	}
+);
+
+//URL重定向规则(用于替换优酷播放器、去除google重定向等功能)
+/*格式：
+	name:规则名称
+	find:匹配(正则)表达式
+	replace:替换(正则)表达式
+	extra:额外的属性,如adkillrule代表是去广告规则
+*/
+var redirectlist=[
+		{name:"替换优酷播放器",//请勿在此条规则前加入其他规则
+		find:/^http:\/\/static\.youku\.com\/.*?q?(player|loader)(_[^.]+)?\.swf/,
+		replace: localStorage["ykplayer"],
+		extra:"adkillrule"
+		},
+		{name:"替换优酷外链播放器",//请勿在此条规则前加入其他规则
+		find: /^http:\/\/player\.youku\.com\/player\.php\/(.*\/)?sid\/([\w=]+)\/v\.swf/,
+		replace: localStorage["ykplayer"]+ykext,
+		extra:"adkillrule"
+		},
+		{name:"qy规则",//请勿在此条规则前加入其他规则
+		find: /^(http:\/\/www\.iqiyi\.com\/player\/[a-z0-9]{7,}\.swf)/,
+		replace: "123$1",
+		/*excode:'(function(){var obj=document.getElementById("flash")||document.getElementById("myDynamicContent");var pa=obj.lastChild;'
+		+'if(!/cid=|adurl=/.test(pa.value))return;var newpa=pa.cloneNode(true);newpa.value=newpa.value.replace(/(cid=|adurl=)[^&]+/g,"$1");'
+		+'obj.removeChild(pa);obj.appendChild(newpa);})()',*/
+		extra:"adkillrule2"
+		},
+		{name:"qy2",
+		find: /^(http:\/\/www\.iqiyi\.com\/player\/.*\/Player\.swf\?(.(?!adurl=$))+)$/,
+		replace: "$1&adurl=",
+		extra:"adkillrule"
+		},
+		/*{name:"替换ku6播放器",
+		find: /^http:\/\/player\.ku6cdn\.com\/default\/.*\/\d+\/(v|player)\.swf/i,
+		replace: 'http://adtchrome.qiniudn.com/ku6.swf',
+		extra:"adkillrule"
+		},*/
+		{name:"ark重定向",
+		find: /(\/\/ark\.l*e{1,}t*v\.com\/s\?ark)=\d{2,}(&ct=1,2,3&n=1&res=xml.*)/,
+		replace: "$1=2$2",
+		extra:"adkillrule2"
+		},
+		{name:"td重定向",
+		find: /^http:\/\/td\.atm\.youku\.com\/tdcm\/adcontrol/,
+		replace: "http://www.tudou.com/util/tools/www_hd.txt",
+		extra:"adkillrule2"
+		},
+		{name:"sohu重定向",
+		find: /^http:\/\/v\.aty\.sohu\.com\/v\?.*/,
+		replace: "123",
+		extra:"adkillrule2"
+		},
+		{name:"去除google重定向",
+		find:/^https?:\/\/www\.google\.com(\.[^\/]+)?\/url\?sa=t.+&url=.*?([^&]+).*/,
+		replace:"$2",
+		extra:"ggredirectrule"
+		}
+	];
+
+
+//当前不去广告的tab
+var whitetab=[];
+//存放当前阻挡的url
+var blockurls=[];//示例:blockurls["tabid6"]=["sd","sdf"];
+//探测到的媒体文件的url
+var mediaurls=[];//示例:mediaurls["tabid6"]=[{name:"aa",url:"sd",size:"0.12MB"},{name:"bb",url:"sdf",size:"1.32MB"}];

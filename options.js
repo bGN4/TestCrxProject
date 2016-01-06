@@ -40,8 +40,23 @@
 		document.getElementById(name).checked = checked;
 		document.getElementById(name).addEventListener('click', function(){setValue(this);});
 	}
+		
+	for(var i=0;i<2;i++)//初始化去广告模式选项
+	{
+		var obj=document.getElementById("mode"+i);
+		obj.value=i;
+		obj.addEventListener('click', function(){changemode(this);});
+		if(i==localStorage["admode"])
+			obj.checked = 'checked';
+	}
 
-	for(var i=0;i<5;i++)//初始化优酷各选项
+	function changemode(obj)//选择去广告模式
+	{
+		localStorage["admode"]=obj.value;
+		showSavingSucceedTip();
+	}
+
+	for(var i=0;i<7;i++)//初始化优酷各选项
 	{
 		var obj=document.getElementById("yk"+i),
 			tip=document.getElementById("yktip"+i),
@@ -56,7 +71,7 @@
 			tip.innerHTML=' 地址：<input type="text" value="'+url+'" id="custom">　';
 			document.getElementById("custom").addEventListener('blur',changecustom);//自定义地址框失去焦点事件
 			obj.addEventListener('click',changecustom);//自定义地址选项选中事件
-			break;
+			continue;
 		}
 		getTime(i);
 		tip.innerHTML=' 测试地址：<a href="'+url+'" target="_blank" >'+url+'</a>　';
