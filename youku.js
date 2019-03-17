@@ -12,8 +12,8 @@
     var window = this.window||window;
     var unsafeWindow = unsafeWindow;
     var unsafeGlobal = unsafeWindow; // Let's assume that...
-	var ykplayer="";
-	var ykext="?showAd=0&VideoIDS=$2";
+    var ykplayer="";
+    var ykext="?showAd=0&VideoIDS=$2";
     var CONSTANTS = {
         PLAYER_DOM:    ['object','embed','iframe'],
         PLAYERS: [
@@ -22,8 +22,8 @@
                 replace: ykplayer
             },
             {
-				find: /^http:\/\/player\.youku\.com\/(player\.php\/.*sid|embed)\/([\w=]+)(\/v\.swf)?/,
-				replace: ykplayer+ykext
+                find: /^http:\/\/player\.youku\.com\/(player\.php\/.*sid|embed)\/([\w=]+)(\/v\.swf)?/,
+                replace: ykplayer+ykext
             }
         ],
         NODEINSERTED_HACK: '@-moz-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@-webkit-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@-o-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}embed,object{animation-duration:.001s;-ms-animation-duration:.001s;-moz-animation-duration:.001s;-webkit-animation-duration:.001s;-o-animation-duration:.001s;animation-name:nodeInserted;-ms-animation-name:nodeInserted;-moz-animation-name:nodeInserted;-webkit-animation-name:nodeInserted;-o-animation-name:nodeInserted;}'
@@ -156,11 +156,11 @@
             return;
         }
     }
-	chrome.extension.sendRequest({command: 'getYkplayer'}, function(data){
-		ykplayer=data.ykplayer;
-		CONSTANTS.PLAYERS[0].replace=ykplayer;
-		CONSTANTS.PLAYERS[1].replace=ykplayer+ykext;
+    chrome.extension.sendRequest({command: 'getYkplayer'}, function(data){
+        ykplayer=data.ykplayer;
+        CONSTANTS.PLAYERS[0].replace=ykplayer;
+        CONSTANTS.PLAYERS[1].replace=ykplayer+ykext;
 
-		UTIL.forEach(CONTROLLER, PROC);
-	});
+        UTIL.forEach(CONTROLLER, PROC);
+    });
 })();

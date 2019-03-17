@@ -1,12 +1,12 @@
 ﻿////////////////////反盗链规则
 /*规则格式：
-	refererlist=[
-		{"name":"string",
-		 "includeURI":/Regexp/,
-		 "exclude":/RegExp/,
-		 "Specific":"string"}, PS:此处如果是"-"代表移除referer元素
-		 ...
-		 ]
+    refererlist=[
+        {"name":"string",
+         "includeURI":/Regexp/,
+         "exclude":/RegExp/,
+         "Specific":"string"}, PS:此处如果是"-"代表移除referer元素
+         ...
+         ]
 */
 var refererlist = [ //下面规则可以按上面提示添加，
     //原规则大部分来自Firefox扩展mason，部分自己收集
@@ -86,69 +86,69 @@ var refererlist = [ //下面规则可以按上面提示添加，
         "includeURI": /\.photobucket\.com/,
         "excludeURI": null,
         "Specific": ""},
-	{"name": "imgur",
-		"includeURI": /imgur\.com/,
-		"excludeURI": null,
-		"Specific": ""},
-	{"name": "萌妹",
-		"includeURI": /\.imouto\.org/,
-		"excludeURI": null,
-		"Specific": ""},
-	{"name": "异次元",
-		"includeURI": /img\.ipc\.me/,
-		"excludeURI": null,
-		"Specific": "http://www.iplaysoft.com"},
-	{"name": "PhotoBucket",
-		"includeURI": /\.photobucket\.com/,
-		"excludeURI": null,
-		"Specific": ""},
-	{"name": "观看QQ源视频",
-		"includeURI": /vsrctfs\.tc\.qq\.com/,
-		"excludeURI": null,
-		"Specific": ""},
-	{"name": "56源视频",
-		"includeURI": /\.56\.com/,
-		"excludeURI": null,
-		"Specific": "-"},
-	{"name": "tuita",
-		"includeURI": /img\d\.tuita\.cc/,
-		"excludeURI": null,
-		"Specific": ""},
-	{"name": "煎蛋网图片",
-		"includeURI": /tankr\.net\/s\/medium/,
-		"excludeURI": null,
-		"Specific": ""},
-	{"name": "isnowfy",
-		"includeURI": /\/\/www\.isnowfy\.com/,
-		"excludeURI": null,
-		"Specific": ""},
-	{"name": "fyouku",
-		"includeURI": /f\.youku\.com/,
-		"excludeURI": null,
-		"Specific": "-"},
-	{"name": "qlogo",
-		"includeURI": /qzapp\.qlogo\.cn/,
-		"excludeURI": null,
-		"Specific": "-"},
-	{"name": "fengxiangba",
-		"includeURI": /pic\.fengxiangba\.com\/pictures/,
-		"excludeURI": null,
-		"Specific": "-"},
-	{"name": "ykbofangqi",
-		"includeURI": /\/\/git\.oschina\.net\/kawaiiushio/,
-		"excludeURI": null,
-		"Specific": "-"},
+    {"name": "imgur",
+        "includeURI": /imgur\.com/,
+        "excludeURI": null,
+        "Specific": ""},
+    {"name": "萌妹",
+        "includeURI": /\.imouto\.org/,
+        "excludeURI": null,
+        "Specific": ""},
+    {"name": "异次元",
+        "includeURI": /img\.ipc\.me/,
+        "excludeURI": null,
+        "Specific": "http://www.iplaysoft.com"},
+    {"name": "PhotoBucket",
+        "includeURI": /\.photobucket\.com/,
+        "excludeURI": null,
+        "Specific": ""},
+    {"name": "观看QQ源视频",
+        "includeURI": /vsrctfs\.tc\.qq\.com/,
+        "excludeURI": null,
+        "Specific": ""},
+    {"name": "56源视频",
+        "includeURI": /\.56\.com/,
+        "excludeURI": null,
+        "Specific": "-"},
+    {"name": "tuita",
+        "includeURI": /img\d\.tuita\.cc/,
+        "excludeURI": null,
+        "Specific": ""},
+    {"name": "煎蛋网图片",
+        "includeURI": /tankr\.net\/s\/medium/,
+        "excludeURI": null,
+        "Specific": ""},
+    {"name": "isnowfy",
+        "includeURI": /\/\/www\.isnowfy\.com/,
+        "excludeURI": null,
+        "Specific": ""},
+    {"name": "fyouku",
+        "includeURI": /f\.youku\.com/,
+        "excludeURI": null,
+        "Specific": "-"},
+    {"name": "qlogo",
+        "includeURI": /qzapp\.qlogo\.cn/,
+        "excludeURI": null,
+        "Specific": "-"},
+    {"name": "fengxiangba",
+        "includeURI": /pic\.fengxiangba\.com\/pictures/,
+        "excludeURI": null,
+        "Specific": "-"},
+    {"name": "ykbofangqi",
+        "includeURI": /\/\/git\.oschina\.net\/kawaiiushio/,
+        "excludeURI": null,
+        "Specific": "-"},
   /*{"name": "youku",
-		"includeURI": /v\.youku\.com/,
-		"excludeURI": null,
-		"Specific": "-"},*/
+        "includeURI": /v\.youku\.com/,
+        "excludeURI": null,
+        "Specific": "-"},*/
 ];
 
 ///////////////////广告过滤白名单 (正则表达式数组)
 /*格式：[/Regexp/,/RegExp/]
   一些列子：(\/\/|\.)valf\.atm\.youku\.com\/crossdomain\.xml 相当于 ||valf.atm.youku.com/crossdomain.xml
-	    其中(\/\/|\.)是为了匹配||模式，即匹配*://valf....或*://*.valf....但不匹配*://abcvalf....
-		
+        其中(\/\/|\.)是为了匹配||模式，即匹配*://valf....或*://*.valf....但不匹配*://abcvalf....
+        
 */
 var whitelist = [/(\/\/|\.)analytics\.163\.com\/ntes\.js/,/(\/\/|\.)static\.atm\.youku\.com.*\.swf/,/(\/\/|\.)valf\.atm\.youku\.com\/crossdomain\.xml/,/(\/\/|\.)js\.tudouui\.com\/bin\/player/];
 whitelist.push(/(\/\/|\.)valf\.atm\.youku\.com\/valf\?/);
@@ -230,98 +230,98 @@ var ykold1="http://git.oschina.net/kawaiiushio/antiad/raw/master/loader.swf";
 var UpTip="Adkill已经升级到0.42.3版\n更新内容：新增支持chrome33版本的脚本去广告模式，更新网友提供播放器地址，请严格按选项页面提示来选择播放器! ";
 
 if(localStorage["admode"]==undefined)//默认使用去广告模式
-	{localStorage["admode"]=0}
+    {localStorage["admode"]=0}
 
 if(localStorage["ykplayer"]==undefined)//默认使用的播放器
-	{localStorage["ykplayer"]=yk6;alert(UpTip);}
+    {localStorage["ykplayer"]=yk6;alert(UpTip);}
 
 if(chrome.runtime)//chrome22内核开始支持此方法
 {
-	//扩展更新通知
-	chrome.runtime.onInstalled.addListener(
-		function(details) {
-			if(details.reason=="update")
-			{
-				if(localStorage["ykplayer"]==yk1||localStorage["ykplayer"]==yk0)
-					localStorage["ykplayer"]=yk6;
-				alert(UpTip);
-			}
-		}
-	);
+    //扩展更新通知
+    chrome.runtime.onInstalled.addListener(
+        function(details) {
+            if(details.reason=="update")
+            {
+                if(localStorage["ykplayer"]==yk1||localStorage["ykplayer"]==yk0)
+                    localStorage["ykplayer"]=yk6;
+                alert(UpTip);
+            }
+        }
+    );
 }
 
 chrome.extension.onRequest.addListener(
-	function(request, sender, sendResponse){
-		switch(request.command){
-			case 'getYkplayer':
-			{		
-				var newUrl=localStorage["ykplayer"];
-				if(!/^https?|^chrome-extension:\/\//.test(newUrl))
-					newUrl=chrome.extension.getURL(newUrl);
-				sendResponse({ykplayer:newUrl});
-				break;
-			}
-		}
-	}
+    function(request, sender, sendResponse){
+        switch(request.command){
+            case 'getYkplayer':
+            {       
+                var newUrl=localStorage["ykplayer"];
+                if(!/^https?|^chrome-extension:\/\//.test(newUrl))
+                    newUrl=chrome.extension.getURL(newUrl);
+                sendResponse({ykplayer:newUrl});
+                break;
+            }
+        }
+    }
 );
 
 //URL重定向规则(用于替换优酷播放器、去除google重定向等功能)
 /*格式：
-	name:规则名称
-	find:匹配(正则)表达式
-	replace:替换(正则)表达式
-	extra:额外的属性,如adkillrule代表是去广告规则
+    name:规则名称
+    find:匹配(正则)表达式
+    replace:替换(正则)表达式
+    extra:额外的属性,如adkillrule代表是去广告规则
 */
 var redirectlist=[
-		{name:"替换优酷播放器",//请勿在此条规则前加入其他规则
-		find:/^http:\/\/static\.youku\.com\/.*?q?(player|loader)(_[^.]+)?\.swf/,
-		replace: localStorage["ykplayer"],
-		extra:"adkillrule"
-		},
-		{name:"替换优酷外链播放器",//请勿在此条规则前加入其他规则
-		find: /^http:\/\/player\.youku\.com\/player\.php\/(.*\/)?sid\/([\w=]+)\/v\.swf/,
-		replace: localStorage["ykplayer"]+ykext,
-		extra:"adkillrule"
-		},
-		{name:"qy规则",//请勿在此条规则前加入其他规则
-		find: /^(http:\/\/www\.iqiyi\.com\/player\/[a-z0-9]{7,}\.swf)/,
-		replace: "123$1",
-		/*excode:'(function(){var obj=document.getElementById("flash")||document.getElementById("myDynamicContent");var pa=obj.lastChild;'
-		+'if(!/cid=|adurl=/.test(pa.value))return;var newpa=pa.cloneNode(true);newpa.value=newpa.value.replace(/(cid=|adurl=)[^&]+/g,"$1");'
-		+'obj.removeChild(pa);obj.appendChild(newpa);})()',*/
-		extra:"adkillrule2"
-		},
-		{name:"qy2",
-		find: /^(http:\/\/www\.iqiyi\.com\/player\/.*\/Player\.swf\?(.(?!adurl=$))+)$/,
-		replace: "$1&adurl=",
-		extra:"adkillrule"
-		},
-		/*{name:"替换ku6播放器",
-		find: /^http:\/\/player\.ku6cdn\.com\/default\/.*\/\d+\/(v|player)\.swf/i,
-		replace: 'http://adtchrome.qiniudn.com/ku6.swf',
-		extra:"adkillrule"
-		},*/
-		{name:"ark重定向",
-		find: /(\/\/ark\.l*e{1,}t*v\.com\/s\?ark)=\d{2,}(&ct=1,2,3&n=1&res=xml.*)/,
-		replace: "$1=2$2",
-		extra:"adkillrule2"
-		},
-		{name:"td重定向",
-		find: /^http:\/\/td\.atm\.youku\.com\/tdcm\/adcontrol/,
-		replace: "http://www.tudou.com/util/tools/www_hd.txt",
-		extra:"adkillrule2"
-		},
-		{name:"sohu重定向",
-		find: /^http:\/\/v\.aty\.sohu\.com\/v\?.*/,
-		replace: "123",
-		extra:"adkillrule2"
-		},
-		{name:"去除google重定向",
-		find:/^https?:\/\/www\.google\.com(\.[^\/]+)?\/url\?sa=t.+&url=.*?([^&]+).*/,
-		replace:"$2",
-		extra:"ggredirectrule"
-		}
-	];
+        {name:"替换优酷播放器",//请勿在此条规则前加入其他规则
+        find:/^http:\/\/static\.youku\.com\/.*?q?(player|loader)(_[^.]+)?\.swf/,
+        replace: localStorage["ykplayer"],
+        extra:"adkillrule"
+        },
+        {name:"替换优酷外链播放器",//请勿在此条规则前加入其他规则
+        find: /^http:\/\/player\.youku\.com\/player\.php\/(.*\/)?sid\/([\w=]+)\/v\.swf/,
+        replace: localStorage["ykplayer"]+ykext,
+        extra:"adkillrule"
+        },
+        {name:"qy规则",//请勿在此条规则前加入其他规则
+        find: /^(http:\/\/www\.iqiyi\.com\/player\/[a-z0-9]{7,}\.swf)/,
+        replace: "123$1",
+        /*excode:'(function(){var obj=document.getElementById("flash")||document.getElementById("myDynamicContent");var pa=obj.lastChild;'
+        +'if(!/cid=|adurl=/.test(pa.value))return;var newpa=pa.cloneNode(true);newpa.value=newpa.value.replace(/(cid=|adurl=)[^&]+/g,"$1");'
+        +'obj.removeChild(pa);obj.appendChild(newpa);})()',*/
+        extra:"adkillrule2"
+        },
+        {name:"qy2",
+        find: /^(http:\/\/www\.iqiyi\.com\/player\/.*\/Player\.swf\?(.(?!adurl=$))+)$/,
+        replace: "$1&adurl=",
+        extra:"adkillrule"
+        },
+        /*{name:"替换ku6播放器",
+        find: /^http:\/\/player\.ku6cdn\.com\/default\/.*\/\d+\/(v|player)\.swf/i,
+        replace: 'http://adtchrome.qiniudn.com/ku6.swf',
+        extra:"adkillrule"
+        },*/
+        {name:"ark重定向",
+        find: /(\/\/ark\.l*e{1,}t*v\.com\/s\?ark)=\d{2,}(&ct=1,2,3&n=1&res=xml.*)/,
+        replace: "$1=2$2",
+        extra:"adkillrule2"
+        },
+        {name:"td重定向",
+        find: /^http:\/\/td\.atm\.youku\.com\/tdcm\/adcontrol/,
+        replace: "http://www.tudou.com/util/tools/www_hd.txt",
+        extra:"adkillrule2"
+        },
+        {name:"sohu重定向",
+        find: /^http:\/\/v\.aty\.sohu\.com\/v\?.*/,
+        replace: "123",
+        extra:"adkillrule2"
+        },
+        {name:"去除google重定向",
+        find:/^https?:\/\/www\.google\.com(\.[^\/]+)?\/url\?sa=t.+&url=.*?([^&]+).*/,
+        replace:"$2",
+        extra:"ggredirectrule"
+        }
+    ];
 
 
 //当前不去广告的tab
